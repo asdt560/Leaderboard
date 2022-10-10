@@ -46,6 +46,7 @@ h2 {
 #scorecontainer {
   min-height: 60vh;
   border: 2px solid goldenrod;
+  overflow-y: auto;
 }
 
 .form {
@@ -64,4 +65,14 @@ h2 {
 
 .button {
   align-self: flex-end;
+}
+
+.scorecard {
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.scorecard:nth-child(2n) {
+  background-color: gold;
+  color: black;
 }
