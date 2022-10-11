@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Github Pages]  Currently unavailable.
+[Github Pages](https://asdt560.github.io/Leaderboard/)
 
 ## Getting started
 
