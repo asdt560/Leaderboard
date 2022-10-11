@@ -84,3 +84,15 @@ h2 {
   background-color: gold;
   color: black;
 }
+
+input {
+  appearance: textfield;
+  -moz-appearance: textfield;
+  margin: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
