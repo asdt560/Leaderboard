@@ -65,6 +65,14 @@ h2 {
 
 .button {
   align-self: flex-end;
+  width: 6rem;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: goldenrod;
+  color: black;
+  font-weight: bold;
 }
 
 .scorecard {
